@@ -1,8 +1,9 @@
-/* styles.css /
+/* css styles */
 
 div {
+    text-align: center;
+    font-size: 40px;
     color: white;
     background-color: red;
-    text-align: center;
-    font-size: 40;
+    font-weight:bold;
 }
